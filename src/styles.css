@@ -11,7 +11,7 @@ body {
 h1 {
   font-size: 48px;
   margin: 0;
-  font-weight: 500;
+  font-weight: 550;
 }
 
 h2 {
@@ -21,15 +21,15 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 26px;
   margin: 0;
-  font-weight: 500;
+  font-weight: 450;
 }
 
 p {
   font-size: 16px;
   margin: 12px 0;
-  font-weight: 300;
+  font-weight: 350;
   color: #a1a1aa;
 }
 
