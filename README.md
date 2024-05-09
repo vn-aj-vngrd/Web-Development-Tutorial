@@ -26,4 +26,9 @@ This project is made for my
 
  ## Searching for assets?
 
-If you are here to find the assets that I mentioned in the video tutorial, please clone or fork this repo and save it to your local machine. Then, copy the public folder to your workspace.
+If you are here to find the assets that I mentioned in the video tutorial, please clone, fork, or download this repo and save it to your local machine. Then, copy the public folder to your workspace.
+
+If you are new to GitHub, simply download the zip file by clicking the "Code" button under the "local" tab. <br><br>
+![image](https://github.com/vn-aj-vngrd/portfolio-website-tutorial/assets/75025770/d1f99b4f-8a81-4f2a-946c-6ae5c1e34f4c)
+
+
